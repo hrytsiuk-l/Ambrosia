@@ -5,7 +5,6 @@ main {
   margin: 5;
   padding: 18px;
   background-color: #dcdcdc;
-  background-color: orange;
 }
 
 .header {
@@ -13,10 +12,12 @@ main {
   text-align: center;
   background: #f1f1f1;
 }
+
 img {
   width: 100%;
   height: auto;
-} 
+}
+
 .text {
   background: white;
 }
@@ -25,18 +26,21 @@ img {
   margin: 1px;
   font-size: 100%;
 }
+
 .footer {
   background-color: #f4f4f4;
   font-size: 12px;
 }
-p{
+
+p {
   border: 6px solid #d6d6d6;
   padding:7px;
   margin:3px;
   text-align:left;
   color:green;
-  }
-h2{
+}
+
+h2 {
   padding:7px;
   text-align:center;
-  }
+}
