@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box; <!--Це гарантує, що відступ та облямівка включаються до загальної ширини та висоти елементів. -->
+}
+main {
+  margin: 5;
+  padding: 18px;
+  background-color: #dcdcdc;
+  background-color: orange;
+}
+
+.header {
+  padding: 20px;
+  text-align: center;
+  background: #f1f1f1;
+}
+img {
+  width: 100%;
+  height: auto;
+} 
+.text {
+  background: white;
+}
+
+.text > h2, p {
+  margin: 1px;
+  font-size: 100%;
+}
+.footer {
+  background-color: #f4f4f4;
+  font-size: 12px;
+}
+p{
+  border: 6px solid #d6d6d6;
+  padding:7px;
+  margin:3px;
+  text-align:left;
+  color:green;
+  }
+h2{
+  padding:7px;
+  text-align:center;
+  }
